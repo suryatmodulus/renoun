@@ -1,5 +1,11 @@
 # create-renoun
 
+## 2.0.6
+
+### Patch Changes
+
+- 290cd50: Improves the post-create instructions to use a relative `cd` path (for example, `cd "docs"`) when possible.
+
 ## 2.0.5
 
 ### Patch Changes
